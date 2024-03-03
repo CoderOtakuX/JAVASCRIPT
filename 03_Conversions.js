@@ -5,7 +5,7 @@ let score = "arjun"
 
 let valueInNumber = Number(score)
 //console.log(typeof valueInNumber);
-//console.log(valueInNumber)  .
+//console.log(valueInNumber);
 
 
 // "34" => 34
