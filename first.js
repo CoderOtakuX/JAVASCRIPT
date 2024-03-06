@@ -1,7 +1,6 @@
 console.log("ARJUN")
 
 function isPalindrome(num) {
-    // Convert number to string
     let numStr = num.toString();
     
     // Reverse the string
