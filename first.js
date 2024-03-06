@@ -3,7 +3,6 @@ console.log("ARJUN")
 function isPalindrome(num) {
     let numStr = num.toString();
     
-    // Reverse the string
     let reversedStr = numStr.split('').reverse().join('');
     
     // Check if the original string is equal to the reversed string
