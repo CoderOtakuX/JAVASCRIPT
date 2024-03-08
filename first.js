@@ -5,7 +5,7 @@ function isPalindrome(num) {
     
     let reversedStr = numStr.split('').reverse().join('');
     
-    return numStr === reversedStr;
+    return numStr === reversedStr
 }
 
 console.log(isPalindrome(12321)); // Output: true
